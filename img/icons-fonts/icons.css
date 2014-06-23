@@ -1,0 +1,63 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.ttf?und6y5') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-abajo:before {
+	content: "\e600";
+}
+.icon-mensajes:before {
+	content: "\e601";
+}
+.icon-donaciones:before {
+	content: "\e602";
+}
+.icon-feed:before {
+	content: "\e603";
+}
+.icon-feed2:before {
+	content: "\e604";
+}
+.icon-firefox:before {
+	content: "\e605";
+}
+.icon-home:before {
+	content: "\e606";
+}
+.icon-html5:before {
+	content: "\e607";
+}
+.icon-mundo-libre:before {
+	content: "\e608";
+}
+.icon-menu:before {
+	content: "\e609";
+}
+.icon-derecha:before {
+	content: "\e60a";
+}
+.icon-tux:before {
+	content: "\e60d";
+}
+.icon-user:before {
+	content: "\e60e";
+}
+.icon-users:before {
+	content: "\e60f";
+}
